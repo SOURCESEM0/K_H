@@ -1,13 +1,13 @@
 {
-  "name": "سورس الجوكر",
+  "name": "سورس مـاكـس",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/83ee584aef1c4db1d9597.jpg",
+  "logo": "https://telegra.ph/file/27156cedd867fec1d2a9e.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jepthoniq/lMl10l.git",
+  "repository": "https://github.com/SOURCESEM0/K_H.git",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -55,12 +55,12 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "jepthoniq",
+      "value": "MAX",
       "required": false
     }
   },
